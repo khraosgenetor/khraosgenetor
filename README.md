@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo19677
-Fork on GitHub5910
 <h1 align="center">Hi 👋, I'm Khraos Genetor</h1>
 <h3 align="center">A gamer who happens to be a programmer</h3>
 
@@ -40,27 +36,3 @@ Fork on GitHub5910
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khraosgenetor&" alt="khraosgenetor" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
