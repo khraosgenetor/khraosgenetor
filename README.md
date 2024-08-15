@@ -1,17 +1,17 @@
-<h1 align="center">Hello fello peeps, I am Khraos Genetor</h1>
+<h1 align="center">Hello fellow peeps, I am Khraos Genetor</h1>
 <h3 align="center">A gamer who happens to be a programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khraosgenetor&label=Profile%20views&color=0e75b6&style=flat" alt="khraosgenetor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khraosgenetor" alt="khraosgenetor" /></a> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on [x16k (16 bit kernel)](https://github.com/khraosgenetor/test_x16k)
 
 - 🌱 I’m currently learning **Assembly and C**
 
-- 👯 I’m looking to collaborate on **nothing**
+- 👯 I’m looking to collaborate on [x16k (16 bit kernel)](https://github.com/khraosgenetor/test_x16k)
 
-- 🤝 I’m looking for help with [nothing](https://github.com/khraosgenetor/x32k)
+- 🤝 I’m looking for help with [x16k (16 bit kernel)](https://github.com/khraosgenetor/test_x16k)
 
 - 👨‍💻 All of my projects are available at [https://github.com/khraosgenetor?tab=repositories](https://github.com/khraosgenetor?tab=repositories)
 
