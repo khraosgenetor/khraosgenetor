@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khraosgenetor" alt="khraosgenetor" /></a> </p>
 
-- 🔭 I’m currently working on [x32k (A x32 kernel)](https://github.com/khraosgenetor/x32k)
+- 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **Assembly and C**
 
-- 👯 I’m looking to collaborate on [x32k (A x32 kernel)](https://github.com/khraosgenetor/x32k)
+- 👯 I’m looking to collaborate on **nothing**
 
-- 🤝 I’m looking for help with [x32k (A x32 kernel)](https://github.com/khraosgenetor/x32k)
+- 🤝 I’m looking for help with [nothing](https://github.com/khraosgenetor/x32k)
 
 - 👨‍💻 All of my projects are available at [https://github.com/khraosgenetor?tab=repositories](https://github.com/khraosgenetor?tab=repositories)
 
