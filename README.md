@@ -23,6 +23,8 @@ I am Aditya Abhiram, better known as Khraos Genetor, specializing in C, C++ and 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="Kotlin Logo"/>
 </div>
 
+### Tools I use:
+
 <div align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="GitHub Logo"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" height="40" alt="Neovim Logo"/>
