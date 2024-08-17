@@ -2,8 +2,6 @@
     <img src="https://avatars.githubusercontent.com/u/166394161?v=4" width="200"/>
 </div>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-847%20hrs%2047%20mins-blue)
-<br>
 ![Views](https://komarev.com/ghpvc/?username=khraosgenetor&style=for-the-badge)
 
 ### 👨‍💻 About me:
