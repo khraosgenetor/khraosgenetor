@@ -45,3 +45,8 @@ I am Aditya Abhiram, better known as Khraos Genetor, specializing in C, C++ and 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 📊 My Stuff :
+![Metrics](/github-metrics.svg)
+
+![](https://komarev.com/ghpvc/?username=khraosgenetor&style=for-the-badge)
