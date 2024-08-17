@@ -2,6 +2,8 @@
     <img src="https://avatars.githubusercontent.com/u/166394161?v=4" width="200"/>
 </div>
 
+![](https://komarev.com/ghpvc/?username=khraosgenetor&style=for-the-badge)
+
 ### 👨‍💻 About me:
 I am Aditya Abhiram, better known as Khraos Genetor, specializing in C, C++ and Assembly.
 - 🌏 I live in India.
@@ -50,5 +52,3 @@ I am Aditya Abhiram, better known as Khraos Genetor, specializing in C, C++ and 
 
 ### 📊 My Stuff :
 ![Metrics](/github-metrics.svg)
-
-![](https://komarev.com/ghpvc/?username=khraosgenetor&style=for-the-badge)
