@@ -45,10 +45,10 @@ I am Aditya Abhiram, better known as Khraos Genetor, specializing in C, C++ and 
 ### Organizations I am in
 
 <div align="left"> 
-    <a href="https://www.github.com/EpicGames">
+    <a href="https://www.github.com/EpicGames" target="_blank">
         <img src="https://img.shields.io/badge/Epic%20Games-181717?logo=epicgames&logoColor=white&style=for-the-badge" height="40" alt="Epic Games Badge">
     </a>
-    <a href="https://www.github.com/SysNeura">
+    <a href="https://www.github.com/SysNeura" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/sysneura-262c3e?style=for-the-badge&logo=sysneura&logoColor=white" height="40" alt="SysNeura Logo"/> 
     </a>
 </div>
