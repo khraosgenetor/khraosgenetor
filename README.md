@@ -42,6 +42,17 @@ I am Aditya Abhiram, better known as Khraos Genetor, specializing in C, C++ and 
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" height="40" alt="Visual Studio Logo"/>
 </div>
 
+### Organizations I am in
+
+<div align="left"> 
+    <a href="https://www.github.com/EpicGames">
+        <img src="https://img.shields.io/badge/Epic%20Games-181717?logo=epicgames&logoColor=white&style=for-the-badge" height="40" alt="Epic Games Badge">
+    </a>
+    <a href="https://www.github.com/SysNeura">
+        <img src="https://custom-icon-badges.demolab.com/badge/sysneura-262c3e?style=for-the-badge&logo=sysneura&logoColor=white" height="40" alt="SysNeura Logo"/> 
+    </a>
+</div>
+
 ### How to Reach Me
 
 - **Email:** [khraos.genetor@gmail.com](mailto:khraos.genetor@gmail.com)
@@ -54,3 +65,5 @@ I am Aditya Abhiram, better known as Khraos Genetor, specializing in C, C++ and 
 
 ### 📊 My Stuff :
 ![Metrics](/github-metrics.svg)
+
+
