@@ -1,6 +1,8 @@
-<div id="header" align="center">
-    <img src="https://avatars.githubusercontent.com/u/166394161?v=4" width="200"/>
-</div>
+<a href="https://github.com/khraosgenetor" target="_blank" style="text-decoration: none; color: inherit;">
+    <div id="header" align="center">
+        <img src="https://avatars.githubusercontent.com/u/166394161?v=4" width="200"/>
+    </div>
+</a>
 
 ![Views](https://komarev.com/ghpvc/?username=khraosgenetor&style=for-the-badge)
 
