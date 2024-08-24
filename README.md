@@ -42,7 +42,7 @@ I am Aditya Abhiram, better known as Khraos Genetor, specializing in C, C++ and 
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" height="40" alt="Visual Studio Logo"/>
 </div>
 
-### Organizations I am in
+### Organizations I am in:
 
 <div align="left"> 
     <a href="https://www.github.com/EpicGames" target="_blank">
