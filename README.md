@@ -7,7 +7,7 @@
 ![Views](https://komarev.com/ghpvc/?username=khraosgenetor&style=for-the-badge)
 
 ### 👨‍💻 About me:
-I am Aditya Abhiram, better known as Khraos Genetor, specializing in C, C++ and Assembly.
+I am Khraos Genetor, specializing in C, C++ and Assembly.
 - 🌏 I live in India.
 - 💻 I like programming, watching anime, and sleeping
 - 🎮 I play Minecraft
