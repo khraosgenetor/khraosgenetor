@@ -58,10 +58,11 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
 ### 🎵 Currently (Or Recently played on Spotify):
 
 <div align="center">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313znwtetqmi62d62ofs4cxng3yy&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313znwtetqmi62d62ofs4cxng3yy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true">
-    </a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313znwtetqmi62d62ofs4cxng3yy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313znwtetqmi62d62ofs4cxng3yy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify GitHub Profile">
+  </a>
 </div>
+
 
 ### ✍️ Random Dev Quote
 <div id="Dev Quote" align = center>
