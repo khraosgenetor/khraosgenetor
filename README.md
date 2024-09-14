@@ -15,33 +15,78 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
 
 ### 😻 Programming Languages I know:
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="40" alt="Java Logo"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="40" alt="C++ Logo"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" height="40" alt="C Logo"/>
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="Rust Logo"/>
-  <img src="https://img.shields.io/badge/Assembly-000000?logo=assembly&logoColor=white&style=for-the-badge" height="40" alt="Assembly Logo"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="JavaScript Logo"/>
-  <img src="https://img.shields.io/badge/Perl-0298C3?logo=perl&logoColor=white&style=for-the-badge" height="40" alt="Perl Logo"/>
-  <img src="https://img.shields.io/badge/TJS-2D2D2D?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="TJS Logo"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="Flutter Logo"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="Kotlin Logo"/>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="40" alt="Java Logo"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="40" alt="C++ Logo"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" height="40" alt="C Logo"/>
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="Rust Logo"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank">
+    <img src="https://img.shields.io/badge/Assembly-000000?logo=assembly&logoColor=white&style=for-the-badge" height="40" alt="Assembly Logo"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="JavaScript Logo"/>
+  </a>
+  <a href="https://www.perl.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Perl-0298C3?logo=perl&logoColor=white&style=for-the-badge" height="40" alt="Perl Logo"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TJS-2D2D2D?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="TJS Logo"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="Flutter Logo"/>
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="Kotlin Logo"/>
+  </a>
 </div>
+
 
 ### 🪛 Tools I use:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="GitHub Logo"/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" height="40" alt="Neovim Logo"/>
-  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="40" alt="Vim Logo"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="40" alt="Visual Studio Code Logo"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge" height="40" alt="IntelliJ IDEA Logo"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="Docker Logo"/>
-  <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white&style=for-the-badge" height="40" alt="Node.js Logo"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="Redis Logo"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="PostgreSQL Logo"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="MySQL Logo"/>
-  <img src="https://img.shields.io/badge/BlueJ-003D7D?logo=bluej&logoColor=white&style=for-the-badge" height="40" alt="BlueJ Logo"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" height="40" alt="Visual Studio Logo"/>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="GitHub Logo"/>
+  </a>
+  <a href="https://neovim.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" height="40" alt="Neovim Logo"/>
+  </a>
+  <a href="https://www.vim.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="40" alt="Vim Logo"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="40" alt="Visual Studio Code Logo"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&style=for-the-badge" height="40" alt="IntelliJ IDEA Logo"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="Docker Logo"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white&style=for-the-badge" height="40" alt="Node.js Logo"/>
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="Redis Logo"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="PostgreSQL Logo"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="MySQL Logo"/>
+  </a>
+  <a href="https://www.bluej.org/" target="_blank">
+    <img src="https://img.shields.io/badge/BlueJ-003D7D?logo=bluej&logoColor=white&style=for-the-badge" height="40" alt="BlueJ Logo"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" height="40" alt="Visual Studio Logo"/>
+  </a>
 </div>
 
 ### 🏛️ Organizations I am in:
