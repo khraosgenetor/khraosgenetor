@@ -13,8 +13,8 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
 - 🎮 I play Minecraft
 - 🎯 Working on a kernel I call [x32k](https://github.com/khraosgenetor/x32k)
 
-### Programming Languages I use:
-<div align="left">
+### 😻 Programming Languages I know:
+<div align="center">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="40" alt="Java Logo"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="40" alt="C++ Logo"/>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" height="40" alt="C Logo"/>
@@ -27,9 +27,9 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="Kotlin Logo"/>
 </div>
 
-### Tools I use:
+### 🪛 Tools I use:
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="GitHub Logo"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge" height="40" alt="Neovim Logo"/>
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="40" alt="Vim Logo"/>
@@ -44,9 +44,9 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=for-the-badge" height="40" alt="Visual Studio Logo"/>
 </div>
 
-### Organizations I am in:
+### 🏛️ Organizations I am in:
 
-<div align="left"> 
+<div align="center"> 
     <a href="https://www.github.com/EpicGames" target="_blank">
         <img src="https://img.shields.io/badge/Epic%20Games-181717?logo=epicgames&logoColor=white&style=for-the-badge" height="40" alt="Epic Games Badge">
     </a>
@@ -55,17 +55,27 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
     </a>
 </div>
 
-### How to Reach Me
+### 🎵 Currently (Or Recently played on Spotify):
 
-- **Email:** [khraos.genetor@gmail.com](mailto:khraos.genetor@gmail.com)
-- **GitHub:** [https://github.com/khraosgenetor](https://github.com/khraosgenetor)
+<div align="center">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313znwtetqmi62d62ofs4cxng3yy&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313znwtetqmi62d62ofs4cxng3yy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true">
+    </a>
+</div>
 
 ### ✍️ Random Dev Quote
 <div id="Dev Quote" align = center>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal?theme=catppuccin_mocha?border=true"/>
 </div>
 
-### 📊 My Stuff :
-![Metrics](/github-metrics.svg)
+### 📊 My Metrics :
+<div align="center">
+    <img src="/github-metrics.svg">
+</div>
+
+### 📫 How to Reach Me
+
+- **Email:** [khraos.genetor@gmail.com](mailto:khraos.genetor@gmail.com)
+- **GitHub:** [https://github.com/khraosgenetor](https://github.com/khraosgenetor)
 
 
