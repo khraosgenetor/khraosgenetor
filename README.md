@@ -63,6 +63,14 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
   </a>
 </div>
 
+### 🎹 My Spotify Playlist (Listen to it, it is GOATed):
+
+<div align="center">
+    <a href="https://open.spotify.com/playlist/6a58Nak539mbZWk8Prq33k?si=11d0efcd8eba4978">
+        <img src="https://github.com/user-attachments/assets/482052b6-9932-4c70-a300-69fbd6bee5c4">
+    </a>
+</div>
+
 
 ### ✍️ Random Dev Quote
 <div id="Dev Quote" align = center>
