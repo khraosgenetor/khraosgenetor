@@ -151,7 +151,7 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
     <a href="https://instagram.com/khraosgenetor">
         <img src="https://img.shields.io/badge/Instagram-FFFFFF?logo=instagram&logoColor=red&style=for-the-badge&color=black" height=40 alt="Instagram User Badge">
     </a>
-    <a href="https://threads.io/khraosgenetor">
+    <a href="https://www.threads.net/@khraosgenetor">
         <img src="https://img.shields.io/badge/Threads-FFFFFF?logo=threads&logoColor=white&style=for-the-badge&color=black" height=40 alt="Threads User Badge">
     </a>
 </div>
