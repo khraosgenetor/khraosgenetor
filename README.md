@@ -146,7 +146,13 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
         <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="GitHub Logo">
     </a>
     <a href="https://discord.com/users/1219542034998628352">
-        <img src="https://img.shields.io/badge/Discord-FFFFFF?logo=discord&logoColor=white&style=for-the-badge&color=blue" alt="Discord User Badge" height="40">
+        <img src="https://img.shields.io/badge/Discord-FFFFFF?logo=discord&logoColor=white&style=for-the-badge&color=blue" height="40" alt="Discord User Badge">
+    </a>
+    <a href="https://instagram.com/khraosgenetor">
+        <img src="https://img.shields.io/badge/Instagram-FFFFFF?logo=instagram&logoColor=red&style=for-the-badge&color=black" height=40 alt="Instagram User Badge">
+    </a>
+    <a href="https://threads.io/khraosgenetor">
+        <img src="https://img.shields.io/badge/Threads-FFFFFF?logo=threads&logoColor=white&style=for-the-badge&color=black" height=40 alt="Threads User Badge">
     </a>
 </div>
 
