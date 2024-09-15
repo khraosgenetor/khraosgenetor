@@ -126,10 +126,16 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
 
 ### 📊 My Metrics :
 <div align="center">
+     <a href="https://github.com/anuraghazra/github-readme-stats/">
+        <img src="https://github-readme-stats.vercel.app/api?username=khraosgenetor&show_icons=true&theme=catppuccin_mocha">
+    </a>
+</div>
+<div align="center">
     <a href="https://github.com/lowlighter/metrics">
         <img src="https://raw.githubusercontent.com/khraosgenetor/khraosgenetor/main/github-metrics.svg">
     </a>
 </div>
+
 
 ### 📫 How to Reach Me
 
