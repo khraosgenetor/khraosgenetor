@@ -140,12 +140,14 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
 
 <div align="center">
     <a href="mailto:khraos.genetor@gmail.com">
-    <img src="https://img.shields.io/badge/GMail-181717?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="Email Badge">
-  </a>
-  
-<a href="https://github.com/khraosgenetor">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="GitHub Logo">
-  </a>
+        <img src="https://img.shields.io/badge/GMail-181717?logo=gmail&logoColor=white&style=for-the-badge&color=D14836" height="40" alt="Email Badge">
+    </a>
+    <a href="https://github.com/khraosgenetor">
+        <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="GitHub Logo">
+    </a>
+    <a href="https://discord.com/users/1219542034998628352">
+        <img src="https://img.shields.io/badge/Discord-FFFFFF?logo=discord&logoColor=white&style=for-the-badge&color=blue" alt="Discord User Badge" height="40">
+    </a>
 </div>
 
 
