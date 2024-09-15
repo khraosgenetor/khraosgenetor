@@ -100,6 +100,14 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
     </a>
 </div>
 
+### 🔆 Most Used Languages:
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khraosgenetor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Top Languages">
+    </a>
+</div>
+
 ### 🎵 Currently (Or Recently played on Spotify):
 
 <div align="center">
@@ -115,6 +123,27 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
         <img src="https://github.com/user-attachments/assets/482052b6-9932-4c70-a300-69fbd6bee5c4">
     </a>
 </div>
+
+### 🥇 My Top Repositories:
+
+<div align="center">
+    <a href="https://github.com/khraosgenetor/tutorialmod">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=tutorialmod&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: tutorialmod by khraosgenetor">
+    </a>
+    <a href="https://github.com/khraosgenetor/khraosgenetor">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=khraosgenetor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: khraosgenetor by khraosgenetor">
+    </a>
+    <a href="https://github.com/khraosgenetor/RandomCProgramsForWindows">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=RandomCProgramsForWindows&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: RandomCProgramsForWindows by khraosgenetor">
+    </a>
+    <a href="https://github.com/khraosgenetor/RandomCProgramsForLinux">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=RandomCProgramsForLinux&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: RandomCProgramsForLinux by khraosgenetor">
+    </a>
+    <a href="https://github.com/khraosgenetor/nvim-conf">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=nvim-conf&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: nvim-conf by khraosgenetor">
+    </a>
+</div>
+
 
 
 ### ✍️ Random Dev Quote
