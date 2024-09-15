@@ -119,12 +119,16 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
 
 ### ✍️ Random Dev Quote
 <div id="Dev Quote" align = center>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal?theme=catppuccin_mocha?border=true"/>
+    <a href="https://github.com/PiyushSuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal?theme=catppuccin_mocha?border=true"/>
+    </a>
 </div>
 
 ### 📊 My Metrics :
 <div align="center">
-    <img src="/github-metrics.svg">
+    <a href="https://github.com/lowlighter/metrics">
+        <img src="https://raw.githubusercontent.com/khraosgenetor/khraosgenetor/main/github-metrics.svg">
+    </a>
 </div>
 
 ### 📫 How to Reach Me
