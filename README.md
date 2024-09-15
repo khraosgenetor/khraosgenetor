@@ -136,10 +136,17 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
     </a>
 </div>
 
-
 ### 📫 How to Reach Me
 
-- **Email:** [khraos.genetor@gmail.com](mailto:khraos.genetor@gmail.com)
-- **GitHub:** [https://github.com/khraosgenetor](https://github.com/khraosgenetor)
+<div align="center">
+    <a href="mailto:khraos.genetor@gmail.com">
+    <img src="https://img.shields.io/badge/GMail-181717?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="Email Badge">
+  </a>
+  
+<a href="https://github.com/khraosgenetor">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="GitHub Logo">
+  </a>
+</div>
+
 
 
