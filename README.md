@@ -11,7 +11,7 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
 - 🌏 I live in India.
 - 💻 I like programming, watching anime, and sleeping
 - 🎮 I play Minecraft
-- 🎯 Working on a kernel I call [x32k](https://github.com/khraosgenetor/x32k)
+- 🎯 Working on my [website](https://khraosgenetor.vercel.app/)
 
 ### 😻 Programming Languages I know:
 <div align="center">
