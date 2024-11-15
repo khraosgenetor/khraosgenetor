@@ -127,20 +127,23 @@ I am Khraos Genetor, specializing in C, C++ and Assembly.
 ### 🥇 My Top Repositories:
 
 <div align="center">
-    <a href="https://github.com/khraosgenetor/tutorialmod">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=tutorialmod&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: tutorialmod by khraosgenetor (i.e. me).">
-    </a>
     <a href="https://github.com/khraosgenetor/khraosgenetor">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=khraosgenetor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: khraosgenetor by khraosgenetor (i.e. me).">
     </a>
-    <a href="https://github.com/khraosgenetor/RandomCProgramsForWindows">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=RandomCProgramsForWindows&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: RandomCProgramsForWindows by khraosgenetor (i.e. me).">
-    </a>
     <a href="https://github.com/khraosgenetor/RandomCProgramsForLinux">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=RandomCProgramsForLinux&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: RandomCProgramsForLinux by khraosgenetor (i.e. me).">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=RandomCProgramsForLinux&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: khraosgenetor by khraosgenetor (i.e. me).">
     </a>
     <a href="https://github.com/khraosgenetor/nvim-conf">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=nvim-conf&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: nvim-conf by khraosgenetor (i.e. me).">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=nvim-conf&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: RandomCProgramsForWindows by khraosgenetor (i.e. me).">
+    </a>
+    <a href="https://github.com/khraosgenetor/learningForge">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=learningForge&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: RandomCProgramsForLinux by khraosgenetor (i.e. me).">
+    </a>
+    <a href="https://github.com/khraosgenetor/SolutionsForClass10APC_CTA_TB_For_ICSE">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=SolutionsForClass10APC_CTA_TB_For_ICSE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: nvim-conf by khraosgenetor (i.e. me).">
+    </a>
+    <a href="https://github.com/khraosgenetor/SolutionsForClass9APC_CTA_TB_For_ICSE">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=SolutionsForClass9APC_CTA_TB_For_ICSE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: nvim-conf by khraosgenetor (i.e. me).">
     </a>
 </div>
 
