@@ -1,6 +1,6 @@
 <a href="https://github.com/khraosgenetor" target="_blank" style="text-decoration: none; color: inherit;">
     <div id="header" align="center">
-        <img src="https://avatars.githubusercontent.com/u/166394161?v=4" width="200"/>
+        <img src="https://lh3.googleusercontent.com/a/ACg8ocJ1sH6-dLVMCrADJdXh9lN8T_VdijCtfoCwx1BBKunsFXfLRrw=s320-c-no" width="200"/>
     </div>
 </a>
 
