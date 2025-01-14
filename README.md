@@ -165,7 +165,7 @@ I am Khraos Genetor, specializing in C, C++, Java, JS and Assembly ( Quite liter
     </a>
 </div>
 
-### 📫 How to Reach Me
+### 📫 How to Contact me
 
 <div align="center">
     <a href="mailto:khraos.genetor@gmail.com">
