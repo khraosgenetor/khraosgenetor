@@ -7,7 +7,7 @@
 ![Views](https://komarev.com/ghpvc/?username=khraosgenetor&style=for-the-badge)
 
 ### 👨‍💻 About me:
-I am Khraos Genetor, specializing in C, C++, Java, JS and Assembly ( Quite literally the 'Jack of all Trades', aren't I? :)) ).
+I am Khraos Genetor, specializing in C, C++, Java, JS and Assembly ( A true 'Jack of all Trades,' wouldn't you say? :) ).
 - 🌏 I live in India.
 - 💻 I like programming, watching anime, and sleeping
 - 🎮 I play Minecraft
