@@ -11,7 +11,7 @@ I am Khraos Genetor, specializing in C, C++, Java, JS and Assembly ( A true 'Jac
 - 🌏 I live in India.
 - 💻 I like programming, watching anime, and sleeping
 - 🎮 I play Minecraft
-- 🎯 Working on my [website](https://khraosgenetor.vercel.app/)
+- 🎯 Working on my [website](https://khraos.in/)
 
 ### 😻 Programming Languages I know:
 <div align="center">
