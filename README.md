@@ -12,6 +12,7 @@ I am Khraos Genetor, specializing in C, C++, Java, JS and Assembly ( A true 'Jac
 - 💻 I like programming, watching anime, and sleeping
 - 🎮 I play Minecraft
 - 🎯 Working on my [website](https://khraos.in/)
+- 🎯 Also helping with my friend's [portfolio](https://jose-neto-portfolio.vercel.app/)
 
 ### 😻 Programming Languages I know:
 <div align="center">
