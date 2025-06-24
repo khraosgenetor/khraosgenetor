@@ -131,19 +131,13 @@ I am Khraos Genetor, specializing in C, C++, Java, JS and Assembly ( A true 'Jac
     <a href="https://github.com/khraosgenetor/khraosgenetor">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=khraosgenetor&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: khraosgenetor by khraosgenetor (i.e. me).">
     </a>
-    <a href="https://github.com/khraosgenetor/learningForge">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=learningForge&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: khraosgenetor by khraosgenetor (i.e. me).">
+    <a href="https://github.com/khraosgenetor/khraosgenetor.vercel.app">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=khraosgenetor.vercel.app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: khraosgenetor by khraosgenetor (i.e. me).">
     </a>
-    <a href="https://github.com/khraosgenetor/SolutionsForClass10APC_CTA_TB_For_ICSE">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=SolutionsForClass10APC_CTA_TB_For_ICSE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: nvim-conf by khraosgenetor (i.e. me).">
+    <a href="https://github.com/khraosgenetor/taskapp-cli">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=taskapp-cli&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: nvim-conf by khraosgenetor (i.e. me).">
     </a>
-    <a href="https://github.com/khraosgenetor/CPrograms">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=CPrograms&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: RandomCProgramsForLinux by khraosgenetor (i.e. me).">
-    </a>
-    <a href="https://github.com/khraosgenetor/ProgrammingNotes">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=ProgrammingNotes&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="GitHub Repo: nvim-conf by khraosgenetor (i.e. me).">
-    </a>
-</div>
+    
 
 
 
