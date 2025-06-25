@@ -101,6 +101,12 @@ I am Khraos Genetor, specializing in C, C++, Java, JS and Assembly ( A true 'Jac
     </a>
 </div>
 
+### DevCard:
+
+<div align="center">
+    <a href="https://app.daily.dev/khraosgenetor"><img src="https://api.daily.dev/devcards/v2/sk50CT4Ph9qLQQgy2QG0e.png?r=uzs" width="356" alt="Aditya Abhiram's Dev Card"/></a>
+</div>
+
 ### 🔆 Most Used Languages:
 
 <div align="center">
