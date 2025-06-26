@@ -169,7 +169,7 @@ I am Khraos Genetor, specializing in C, C++, Java, JS and Assembly ( A true 'Jac
 ### 📫 How to Contact me
 
 <div align="center">
-    <a href="mailto:khraos.genetor@gmail.com">
+    <a href="mailto:khraos@khraos.in">
         <img src="https://img.shields.io/badge/GMail-181717?logo=gmail&logoColor=white&style=for-the-badge&color=D14836" height="40" alt="Email Badge">
     </a>
     <a href="https://github.com/khraosgenetor">
