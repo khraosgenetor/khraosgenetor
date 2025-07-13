@@ -6,6 +6,8 @@
 
 ![Views](https://komarev.com/ghpvc/?username=khraosgenetor&style=for-the-badge)
 
+![](https://hit.yhype.me/github/profile?account_id=166394161)
+
 ### 👨‍💻 About me:
 I am Khraos Genetor, specializing in C, C++, Java, JS and Assembly ( A true 'Jack of all Trades,' wouldn't you say? :) ).
 - 🌏 I live in India.
