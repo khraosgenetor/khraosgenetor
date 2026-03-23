@@ -112,13 +112,13 @@ OSDev       →   Kernels · Bootloaders · Low-level systems
 
 <div align="center">
   <a href="https://github.com/khraosgenetor/Lex-Sanguinis">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=Lex-Sanguinis&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=Lex-Sanguinis&theme=dark&hide_border=true"/>
   </a>
   <a href="https://github.com/khraosgenetor/khraosin">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=khraosin&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=khraosin&theme=dark&hide_border=true"/>
   </a>
   <a href="https://github.com/khraosgenetor/khraosgenetor">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=khraosgenetor&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=khraosgenetor&repo=khraosgenetor&theme=dark&hide_border=true"/>
   </a>
 </div>
 
